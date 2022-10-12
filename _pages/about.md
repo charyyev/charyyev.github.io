@@ -34,5 +34,5 @@ Work Experience
 Education
 ------
 - Master of Science, Data Science at [ETH Zurich](https://ethz.ch/de.html) - 2021 - present
-- Bachelor of Science, Computer Science, 2019 - 2021
+- Bachelor of Science, Computer Science at [Graz University of Technology](https://www.tugraz.at/home/), 2019 - 2021
   - Thesis: [Large-scale Data Generation for Benchmarking Data Cleaning Tools](https://github.com/OlgaOvcharenko/BT_Doc/blob/main/OlgaOvcharenko_BT.pdf)
