@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Olga Ovcharenko"
-  avatar           : "images/st_pic.HEIC"
+  avatar           : "st_pic.HEIC"
   bio              : "Graduate student at ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "oovcharenko@student.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
