@@ -26,13 +26,13 @@ SIGMOD Conference 2021: 2450-2463
 
 Work Experience
 ======
-- Teaching Assistant (Quality Assurance in Software Development) - [TU Graz](https://www.tugraz.at/home/). Feb 2022 - Jul 2022 
+- Teaching Assistant (Quality Assurance in Software Development) - [TU Graz](https://www.tugraz.at/home/). Feb - Jul 2022 
 - Undergraduate Research Assistant - [TU Graz](https://www.tugraz.at/home/). Jul 2020 - Aug 2022
-- IT Intern - [AIT](http://ait.co.at). Feb 2020 - Aug 2020.
+- IT Intern - [AIT](http://ait.co.at). Feb - Aug 2020.
 - Teaching Assistant (Data Management) - [TU Graz](https://www.tugraz.at/home/). Oct 2019 - Jun 2020
 
 Education
 ------
 - Master of Science, Data Science at [ETH Zurich](https://ethz.ch/de.html) - 2021 - present
 - Bachelor of Science, Computer Science, 2019 - 2021
-  - Thesis: (Large-scale Data Generation for Benchmarking Data Cleaning Tools)[https://github.com/OlgaOvcharenko/BT_Doc/blob/main/OlgaOvcharenko_BT.pdf]
+  - Thesis: [Large-scale Data Generation for Benchmarking Data Cleaning Tools](https://github.com/OlgaOvcharenko/BT_Doc/blob/main/OlgaOvcharenko_BT.pdf)
