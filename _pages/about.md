@@ -17,13 +17,13 @@ Publications
 ======
 ### 2022 
 
-Sebastian Baunsgaard, Matthias Boehm, Kevin Innerebner, Mito Kehayov, Florian Lackner, **Olga Ovcharenko**, Arnab Phani, Tobias Rieger, David Weissteiner and Sebastian Benjamin Wrede: Federated Data Preparation, Learning, and Debugging in Apache SystemDS[paper](https://dl.acm.org/doi/10.1145/3511808.3557162). CIKM 2022.
+Sebastian Baunsgaard, Matthias Boehm, Kevin Innerebner, Mito Kehayov, Florian Lackner, **Olga Ovcharenko**, Arnab Phani, Tobias Rieger, David Weissteiner and Sebastian Benjamin Wrede: Federated Data Preparation, Learning, and Debugging in Apache SystemDS [[paper]](https://dl.acm.org/doi/10.1145/3511808.3557162). CIKM 2022.
 
 
 ### 2021
 
 Sebastian Baunsgaard, Matthias Boehm, Ankit Chaudhary, Behrouz Derakhshan, Stefan Geißelsöder, Philipp M. Grulich, Michael Hildebrand, Kevin Innerebner, Volker Markl, Claus Neubauer, Sarah Osterburg, **Olga Ovcharenko**, Sergey Redyuk, Tobias Rieger, Alireza Rezaei Mahdiraji, Sebastian Benjamin Wrede, Steffen Zeuch:
-ExDRa: Exploratory Data Science on Federated Raw Data[paper](https://dl.acm.org/doi/10.1145/3448016.3457549).
+ExDRa: Exploratory Data Science on Federated Raw Data [[paper]](https://dl.acm.org/doi/10.1145/3448016.3457549).
 SIGMOD 2021.
 
 Work Experience
