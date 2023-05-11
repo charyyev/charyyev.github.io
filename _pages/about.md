@@ -11,7 +11,7 @@ redirect_from:
 Olga Ovcharenko is a first-year Data Science master's student at [ETH Zurich](https://ethz.ch/de.html), Switzerland. Olga’s interest in data science started with her undergraduate Data Management course at [Graz University of Technology](https://www.tugraz.at/home/), Austria. She mainly focused on distributed storage, analysis, and stream processing. Olga was part of the [DAMSLab](https://damslab.github.io) headed and supervised by Prof. [Matthias Boehm](https://mboehm7.github.io/). Olga had been working on the [ExDRa](https://www.exdra.de) project (exploratory data science over raw data) and contributing to the federated backend of [Apache SystemDS](https://systemds.apache.org/), an open-source ML system for the end-to-end data science lifecycle. She implemented federated components such as linear algebra operations and low-level instructions. Olga is Apache SystemDS committer and has coauthored joint SIGMOD and CIKM papers with Siemens, TU Berlin, DFKI, and TU Graz. For her bachelor’s thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
 Additionally, Olga is worked with Prof. [Theodoros (Theo) Rekatsinas](https://thodrek.github.io).
 
-Currently, Olga is collaborating with Prof. [Ana Klimović](https://anakli.inf.ethz.ch).
+<!-- Currently, Olga is collaborating with Prof. [Ana Klimović](https://anakli.inf.ethz.ch). -->
 <!-- As a continuation of her research work, Olga is currently collaborating with [Prof. Theodoros (Theo) Rekatsinas](https://thodrek.github.io) in the Systems Lab at ETH Zurich.  -->
 
 Publications
