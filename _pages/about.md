@@ -29,6 +29,7 @@ SIGMOD 2021.
 
 Work Experience
 ======
+- Teaching Assistant (Data Modeling and Databases) - [ETH Zurich](https://ethz.ch/de.html). Feb - Aug 2023 
 - Teaching Assistant (Quality Assurance in Software Development) - [TU Graz](https://www.tugraz.at/home/). Feb - Jul 2022 
 - Undergraduate Research Assistant - [TU Graz](https://www.tugraz.at/home/). Jul 2020 - Aug 2022
 - IT Intern - [AIT](http://ait.co.at). Feb - Aug 2020
