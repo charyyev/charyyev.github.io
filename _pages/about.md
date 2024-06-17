@@ -17,6 +17,11 @@ Currently, Olga is working on her semester project with Prof. [Valentina Boeva](
 
 Publications
 ======
+### 2024 
+
+**Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [[paper]](). IEEE VIS 2024.
+
+
 ### 2022 
 
 Sebastian Baunsgaard, Matthias Boehm, Kevin Innerebner, Mito Kehayov, Florian Lackner, **Olga Ovcharenko**, Arnab Phani, Tobias Rieger, David Weissteiner and Sebastian Benjamin Wrede: Federated Data Preparation, Learning, and Debugging in Apache SystemDS [[paper]](https://dl.acm.org/doi/10.1145/3511808.3557162). CIKM 2022.
