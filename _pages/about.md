@@ -18,7 +18,7 @@ Publications
 ======
 ### 2024 
 
-**Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [[paper]](). IEEE VIS 2024.
+**Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [library](https://pypi.org/project/feature-clock/)[[paper]](). IEEE VIS 2024.
 
 
 ### 2022 
