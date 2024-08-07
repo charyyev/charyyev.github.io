@@ -18,7 +18,7 @@ Publications
 ======
 ### 2024 
 
-**Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [library](https://pypi.org/project/feature-clock/)[[paper]](). IEEE VIS 2024.
+**Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [[library]](https://pypi.org/project/feature-clock/) [[paper]](https://arxiv.org/abs/2408.01294). IEEE VIS 2024.
 
 
 ### 2022 
@@ -42,6 +42,6 @@ Work Experience
 
 Education
 ======
-- Master of Science, Data Science at [ETH Zurich](https://ethz.ch/de.html), 2021 - present
-- Bachelor of Science, Computer Science at [Graz University of Technology](https://www.tugraz.at/home/), 2019 - 2021
+- Master of Science, Data Science at [ETH Zurich](https://ethz.ch/de.html), 2022 - present
+- Bachelor of Science, Computer Science at [Graz University of Technology](https://www.tugraz.at/home/), 2019 - 2022
   - Thesis: Large-scale Data Generation for Benchmarking Data Cleaning Tools [[thesis]](https://github.com/OlgaOvcharenko/BT_Doc/blob/main/OlgaOvcharenko_BT.pdf)
