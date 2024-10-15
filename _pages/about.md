@@ -18,6 +18,8 @@ Publications
 ======
 ### 2024 
 
+Philip Toma, **Olga Ovcharenko**, Imant Daunhawer, Julia E. Vogt, Florian Barkmann, Valentina Boeva: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](). NeurIPS [SSL Workshop](https://sslneurips2024.github.io) 2024.
+
 **Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [[library]](https://pypi.org/project/feature-clock/) [[paper]](https://arxiv.org/abs/2408.01294). IEEE VIS 2024.
 
 
