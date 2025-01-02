@@ -39,6 +39,7 @@ SIGMOD 2021.
 
 Work Experience
 ======
+- Research Assistant (BoevaLab) - [ETH Zurich](https://ethz.ch/de.html). Dec 2024 - present
 - Teaching Assistant (Data Modeling and Databases) - [ETH Zurich](https://ethz.ch/de.html). Feb - Aug 2023 
 - Teaching Assistant (Quality Assurance in Software Development) - [TU Graz](https://www.tugraz.at/home/). Feb - Jul 2022 
 - Undergraduate Research Assistant - [TU Graz](https://www.tugraz.at/home/). Jul 2020 - Aug 2022
