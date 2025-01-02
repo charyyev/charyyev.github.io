@@ -86,7 +86,7 @@ author:
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=JnbLQ6wAAAAJ&hl=en"
   email            : "ovcharenko.folga[at]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "olga-ovcharenko-a965491b3"
-  orcid            : "0009-0003-3676-482X"
+  orcid            : "https://orcid.org/0009-0003-3676-482X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
