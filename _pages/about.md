@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Olga Ovcharenko is a Data Science master's student at [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
+Olga Ovcharenko acquired her Data Science master's degree from [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
 In her master thesis, Olga focused on multi-modal single-cell data integration using self-supervised learning.
 Olga’s interest in data science started during her undergraduate studies at [Graz University of Technology](https://www.tugraz.at/home/), Austria. 
 In her bachelor thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
-Olga worked on diverse projects with with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html), Prof. [Matthias Boehm](https://mboehm7.github.io/), and Prof. [Theodoros (Theo) Rekatsinas](https://thodrek.github.io).
+Olga worked on diverse projects with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html), Prof. [Matthias Boehm](https://mboehm7.github.io/), and Prof. [Theodoros (Theo) Rekatsinas](https://thodrek.github.io).
 <!-- Currently, Olga is working on her semester project with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html). -->
 
 <!-- As a continuation of her research work, Olga is currently collaborating with [Prof. Theodoros (Theo) Rekatsinas](https://thodrek.github.io) in the Systems Lab at ETH Zurich.  -->
