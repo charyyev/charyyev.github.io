@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Olga Ovcharenko is a Data Science master's student at [ETH Zurich](https://ethz.ch/de.html), Switzerland. Olga’s interest in data science started with her undergraduate Data Management course at [Graz University of Technology](https://www.tugraz.at/home/), Austria. She mainly focused on distributed storage, analysis, and stream processing. Olga was part of the [DAMSLab](https://damslab.github.io) headed and supervised by Prof. [Matthias Boehm](https://mboehm7.github.io/). Olga had been working on the [ExDRa](https://www.exdra.de) project (exploratory data science over raw data) and contributing to the federated backend of [Apache SystemDS](https://systemds.apache.org/), an open-source ML system for the end-to-end data science lifecycle. She implemented federated components such as linear algebra operations and low-level instructions. Olga is Apache SystemDS PMC member and has coauthored joint SIGMOD and CIKM papers with Siemens, TU Berlin, DFKI, and TU Graz. For her bachelor’s thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
-Additionally, Olga worked with Prof. [Theodoros (Theo) Rekatsinas](https://thodrek.github.io), Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html).
+Olga Ovcharenko is a Data Science master's student at [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
+In her master thesis, Olga focused on multi-modal single-cell data integration using self-supervised learning.
+Olga’s interest in data science started during her undergraduate studies at [Graz University of Technology](https://www.tugraz.at/home/), Austria. 
+In her bachelor thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
+Olga worked on diverse projects with with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html), Prof. [Matthias Boehm](https://mboehm7.github.io/), and Prof. [Theodoros (Theo) Rekatsinas](https://thodrek.github.io).
 <!-- Currently, Olga is working on her semester project with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html). -->
 
 <!-- As a continuation of her research work, Olga is currently collaborating with [Prof. Theodoros (Theo) Rekatsinas](https://thodrek.github.io) in the Systems Lab at ETH Zurich.  -->
@@ -18,9 +21,9 @@ Publications
 ======
 ### 2024 
 
-Philip Toma, **Olga Ovcharenko**, Imant Daunhawer, Julia E. Vogt, Florian Barkmann, Valentina Boeva: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](). NeurIPS [SSL Workshop](https://sslneurips2024.github.io) 2024.
+Philip Toma, **Olga Ovcharenko**, Imant Daunhawer, Julia E. Vogt, Florian Barkmann, Valentina Boeva: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](https://www.biorxiv.org/content/10.1101/2024.11.04.620867v1.full.pdf) [[poster]](poster.pdf). NeurIPS [SSL Workshop](https://sslneurips2024.github.io) 2024.
 
-**Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [[library]](https://pypi.org/project/feature-clock/) [[paper]](https://arxiv.org/abs/2408.01294). IEEE VIS 2024.
+**Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [[library]](https://pypi.org/project/feature-clock/) [[paper]](https://arxiv.org/abs/2408.01294) [[slides]](FeatureClock.pdf). IEEE VIS 2024.
 
 
 ### 2022 
@@ -44,6 +47,12 @@ Work Experience
 
 Education
 ======
-- Master of Science, Data Science at [ETH Zurich](https://ethz.ch/de.html), 2022 - present
+- Master of Science, Data Science at [ETH Zurich](https://ethz.ch/de.html), 2022 - 2024
+  - Thesis: Contrastive Representation Learning for Single-Cell Multi-Omics Data Integration [[thesis]](https://github.com/OlgaOvcharenko/MT_Doc/blob/main/MT_Doc.pdf)
 - Bachelor of Science, Computer Science at [Graz University of Technology](https://www.tugraz.at/home/), 2019 - 2022
   - Thesis: Large-scale Data Generation for Benchmarking Data Cleaning Tools [[thesis]](https://github.com/OlgaOvcharenko/BT_Doc/blob/main/OlgaOvcharenko_BT.pdf)
+
+Other
+======
+- PMC member of [Apache SystemDS](https://systemds.apache.org/), an open-source ML system for the end-to-end data science lifecycle.
+- Reproducibility reviewer SIGMOD 2024
