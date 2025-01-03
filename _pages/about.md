@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Olga Ovcharenko acquired her Data Science master's degree from [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
-In her master thesis, Olga focused on multi-modal single-cell data integration using self-supervised learning.
-Olga’s interest in data science started during her undergraduate studies at [Graz University of Technology](https://www.tugraz.at/home/), Austria. 
-In her bachelor thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
-Olga worked on diverse projects with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html), Prof. [Matthias Boehm](https://mboehm7.github.io/), and Prof. [Theodoros (Theo) Rekatsinas](https://thodrek.github.io).
+I am a Computer Science master's student at [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
+I wrote my master's thesis on efficient multimodal environment representation for robot navigation. I proposed efficient multimodal architecture and self-supervised learning method to improve perception tasks for navigation.
+My interest in computer vision started in my undergraduate where I worked as a research assistant at [AI, Robotics and Transportation lab](https://chiuau.github.io/) on autonomous drone racing.
+After graduation, I worked at companies [Seoul Robotics](https://seoulrobotics.tech/) as machine learning research engineer and [STPC](http://ar247.co.kr/) as perception engineer.
 <!-- Currently, Olga is working on her semester project with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html). -->
 
 <!-- As a continuation of her research work, Olga is currently collaborating with [Prof. Theodoros (Theo) Rekatsinas](https://thodrek.github.io) in the Systems Lab at ETH Zurich.  -->
 
-Publications
+<!-- Publications
 ======
 ### 2024 
 
@@ -35,25 +34,28 @@ Sebastian Baunsgaard, Matthias Boehm, Kevin Innerebner, Mito Kehayov, Florian La
 
 Sebastian Baunsgaard, Matthias Boehm, Ankit Chaudhary, Behrouz Derakhshan, Stefan Geißelsöder, Philipp M. Grulich, Michael Hildebrand, Kevin Innerebner, Volker Markl, Claus Neubauer, Sarah Osterburg, **Olga Ovcharenko**, Sergey Redyuk, Tobias Rieger, Alireza Rezaei Mahdiraji, Sebastian Benjamin Wrede, Steffen Zeuch:
 ExDRa: Exploratory Data Science on Federated Raw Data [[paper]](https://dl.acm.org/doi/10.1145/3448016.3457549).
-SIGMOD 2021.
+SIGMOD 2021. -->
 
 Work Experience
 ======
-- Research Assistant (BoevaLab) - [ETH Zurich](https://ethz.ch/de.html). Dec 2024 - present
-- Teaching Assistant (Data Modeling and Databases) - [ETH Zurich](https://ethz.ch/de.html). Feb - Aug 2023 
-- Teaching Assistant (Quality Assurance in Software Development) - [TU Graz](https://www.tugraz.at/home/). Feb - Jul 2022 
-- Undergraduate Research Assistant - [TU Graz](https://www.tugraz.at/home/). Jul 2020 - Aug 2022
-- IT Intern - [AIT](http://ait.co.at). Feb - Aug 2020
-- Teaching Assistant (Data Management) - [TU Graz](https://www.tugraz.at/home/). Oct 2019 - Jun 2020
+- Master's Thesis (Robotic Systems Lab) - [ETH Zurich](https://ethz.ch/de.html). Mar - Oct 2024
+- Research Assistant (Remote Sensing) - [ETH Zurich](https://ethz.ch/de.html). Apr 2023 - Dec 2024 
+- Perception Engineer - [STPC](http://ar247.co.kr/). Mar - Sep 2022 
+- Machine Learning Research Engineer Intern - [Seoul Robotics](https://seoulrobotics.tech/). Sep 2021 - Feb 2022
+- Research Assistant - [ART lab](https://chiuau.github.io/). Sep 2019 - Aug 2021
+- Research Assistant - [Data Science lab](https://www.ibs.re.kr/eng/sub02_02_02_02.do). Jul - Aug 2019
+- Teaching Assistant (Calculus I & II) - [UNIST](https://www.unist.ac.kr/). Sep 2018 - Jun 2021
 
 Education
 ======
-- Master of Science, Data Science at [ETH Zurich](https://ethz.ch/de.html), 2022 - 2024
-  - Thesis: Contrastive Representation Learning for Single-Cell Multi-Omics Data Integration [[thesis]](https://github.com/OlgaOvcharenko/MT_Doc/blob/main/MT_Doc.pdf)
-- Bachelor of Science, Computer Science at [Graz University of Technology](https://www.tugraz.at/home/), 2019 - 2022
-  - Thesis: Large-scale Data Generation for Benchmarking Data Cleaning Tools [[thesis]](https://github.com/OlgaOvcharenko/BT_Doc/blob/main/OlgaOvcharenko_BT.pdf)
-
-Other
+- Master of Science, Computer Science at [ETH Zurich](https://ethz.ch/de.html), 2022 - 2024
+  - Thesis: Multi-modal Environment Representation for Robot Navigation [[thesis]](thesis.pdf)
+- Bachelor of Science, Computer Science and Mathematics at [UNIST](https://www.unist.ac.kr/), 2017 - 2021
+  
+Awards
 ======
-- PMC member of [Apache SystemDS](https://systemds.apache.org/), an open-source ML system for the end-to-end data science lifecycle.
-- Reproducibility reviewer SIGMOD 2024
+- International Mathematics Olympiad 2016 - Honorable Mention
+- International Zhautykov Olympiad 2016 - Bronze Medal
+- Mediterranean Mathematical Competition 2016 - Gold Medal
+- National Olympiad 2016  - Silver Medal
+

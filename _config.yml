@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : 
 title_separator          : "-"
-name                     : &name "Olga Ovcharenko"
-description              : &description "Graduate student st ETH Zurich"
-url                      : https://olgaovcharenko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sapar Charyyev"
+description              : &description "Graduate student at ETH Zurich"
+url                      : https://charyyev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "OlgaOvcharenko/olgaovcharenko.github.io"
+repository               : "charyyev/charyyev.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,19 +56,19 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &o_ovcharenko
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# twitter:
+#   username               : &o_ovcharenko
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 
 # Analytics
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Olga Ovcharenko"
-  avatar           : "st_pic.png"
+  name             : "Sapar Charyyev"
+  avatar           : 
   bio              : "Graduate student at ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JnbLQ6wAAAAJ&hl=en"
-  email            : "ovcharenko.folga[at]gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=NzXyJN0AAAAJ&hl=en"
+  email            : "charyyew98[at]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,26 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "OlgaOvcharenko"
+  github           : "charyyev"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "olga-ovcharenko-a965491b3"
-  orcid            : "https://orcid.org/0009-0003-3676-482X"
+  linkedin         : "https://www.linkedin.com/in/sapar-charyyev/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "o_ovcharenko"
+  twitter          : #"o_ovcharenko"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  bsky             : "oovcharenko.bsky.social"
+  bsky             : #"oovcharenko.bsky.social"
 
 
 # Reading Files
