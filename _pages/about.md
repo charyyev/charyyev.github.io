@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science master's student at [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
-I wrote my master's thesis on efficient multimodal environment representation for robot navigation. I proposed efficient multimodal architecture and self-supervised learning method to improve perception tasks for navigation.
-My interest in computer vision started in my undergraduate where I worked as a research assistant at [AI, Robotics and Transportation lab](https://chiuau.github.io/) on autonomous drone racing.
-After graduation, I worked at companies [Seoul Robotics](https://seoulrobotics.tech/) as machine learning research engineer and [STPC](http://ar247.co.kr/) as perception engineer.
-<!-- Currently, Olga is working on her semester project with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html). -->
+I am a Master’s student in Computer Science at [ETH Zurich](https://ethz.ch/de.html), Switzerland, specializing in robotics and computer vision. My master’s thesis focuses on developing efficient multimodal environment representations for robot navigation, where I designed a novel architecture and self-supervised learning method to enhance perception tasks.
 
-<!-- As a continuation of her research work, Olga is currently collaborating with [Prof. Theodoros (Theo) Rekatsinas](https://thodrek.github.io) in the Systems Lab at ETH Zurich.  -->
+My passion for computer vision began during my undergraduate studies, where I worked as a research assistant at the [AI, Robotics and Transportation lab](https://chiuau.github.io/), contributing to autonomous drone racing research. After graduation, I gained industry experience as a Machine Learning Research Engineer Intern at [Seoul Robotics](https://seoulrobotics.tech/) and as a Perception Engineer at [STPC](http://ar247.co.kr/), where I further honed my expertise in cutting-edge perception technologies.
+
+
 
 <!-- Publications
 ======
@@ -38,8 +36,8 @@ SIGMOD 2021. -->
 
 Work Experience
 ======
-- Master's Thesis (Robotic Systems Lab) - [ETH Zurich](https://ethz.ch/de.html). Mar - Oct 2024
-- Research Assistant (Remote Sensing) - [ETH Zurich](https://ethz.ch/de.html). Apr 2023 - Dec 2024 
+- Master's Thesis - [Robotic Systems lab](https://rsl.ethz.ch/). Mar - Oct 2024
+- Research Assistant (Remote Sensing)  - [ETH Zurich](https://ethz.ch/de.html). Apr 2023 - Dec 2024 
 - Perception Engineer - [STPC](http://ar247.co.kr/). Mar - Sep 2022 
 - Machine Learning Research Engineer Intern - [Seoul Robotics](https://seoulrobotics.tech/). Sep 2021 - Feb 2022
 - Research Assistant - [ART lab](https://chiuau.github.io/). Sep 2019 - Aug 2021
