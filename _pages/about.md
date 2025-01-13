@@ -54,7 +54,7 @@ Projects
 ======
 
 ## Semantic-MD: Infusing Monocular Depth with Semantic Signals 
-[paper](papers/3DV_Paper_Charyyev_Ghosh_Lemke.pdf) [code](https://github.com/charyyev/semantic md)
+[paper](papers/3DV_Paper_Charyyev_Ghosh_Lemke.pdf) [code](https://github.com/charyyev/semantic_md)
 
 Monocular depth estimation (MDE) plays a crucial role
 in numerous computer vision tasks, such as 3D reconstruction, 
