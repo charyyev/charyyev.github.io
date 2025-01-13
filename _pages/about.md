@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master’s student in Computer Science at [ETH Zurich](https://ethz.ch/de.html), Switzerland, specializing in robotics and computer vision. My master’s thesis focuses on developing efficient multimodal environment representations for robot navigation, where I designed a novel architecture and self-supervised learning method to enhance perception tasks.
+I am a Master’s student in Computer Science at [ETH Zurich](https://ethz.ch/de.html), Switzerland, specializing in robotics and computer vision. My master’s thesis focused on developing efficient multimodal environment representations for robot navigation, where I designed a novel architecture and self-supervised learning method to enhance perception tasks.
 
-My passion for computer vision began during my undergraduate studies, where I worked as a research assistant at the [AI, Robotics and Transportation lab](https://chiuau.github.io/), contributing to autonomous drone racing research. After graduation, I gained industry experience as a Machine Learning Research Engineer Intern at [Seoul Robotics](https://seoulrobotics.tech/) and as a Perception Engineer at [STPC](http://ar247.co.kr/), where I further honed my expertise in cutting-edge perception technologies.
+My passion for computer vision began during my undergraduate studies, where I worked as a research assistant at the [AI, Robotics and Transportation lab](https://chiuau.github.io/), contributing to autonomous drone racing research. After graduation, I gained industry experience as a Machine Learning Research Engineer Intern at [Seoul Robotics](https://seoulrobotics.tech/) and as a Perception Engineer at [STPC](http://ar247.co.kr/), where I worked on LiDAR based perception.
 
 
 
@@ -47,8 +47,14 @@ Work Experience
 Education
 ======
 - Master of Science, Computer Science at [ETH Zurich](https://ethz.ch/de.html), 2022 - 2024
-  - Thesis: Multi-modal Environment Representation for Robot Navigation [[thesis]](thesis.pdf)
+  - Thesis: Efficient Multimodal Environment Representation for Robot Navigation [[thesis]](papers/thesis.pdf)
 - Bachelor of Science, Computer Science and Mathematics at [UNIST](https://www.unist.ac.kr/), 2017 - 2021
+
+Projects
+======
+Semantic-MD: Infusing Monocular Depth with Semantic Signals
+=== 
+
   
 Awards
 ======
