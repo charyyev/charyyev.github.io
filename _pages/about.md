@@ -47,33 +47,40 @@ Work Experience
 Education
 ======
 - Master of Science, Computer Science at [ETH Zurich](https://ethz.ch/de.html), 2022 - 2024
-  - Thesis: Efficient Multimodal Environment Representation for Robot Navigation [[thesis]](papers/thesis.pdf)
+  - Thesis: Efficient Multimodal Environment Representation for Robot Navigation [thesis](papers/thesis.pdf)
 - Bachelor of Science, Computer Science and Mathematics at [UNIST](https://www.unist.ac.kr/), 2017 - 2021
 
 Projects
 ======
 
-## Semantic-MD: Infusing Monocular Depth with Semantic Signals
+## Semantic-MD: Infusing Monocular Depth with Semantic Signals 
+[paper](papers/3DV_Paper_Charyyev_Ghosh_Lemke.pdf) [code](https://github.com/charyyev/semantic md)
 
 Monocular depth estimation (MDE) plays a crucial role
-in numerous computer vision tasks, such as 3D reconstruc-
-tion, scene understanding, and augmented reality. How-
-ever, as MDE is an ill-posed problem, the incorporation
+in numerous computer vision tasks, such as 3D reconstruction, 
+scene understanding, and augmented reality. However, as MDE 
+is an ill-posed problem, the incorporation
 of additional semantic cues can facilitate improved depth
 estimation. In this paper, we explore different techniques
-based on deep learning to leverage the rich semantic de-
-tails present in an image for monocular depth estima-
-tion. First, we explore different ways of integrating se-
-mantic signals to the input in the form of semantic maps
-and borders. Second, we jointly estimate depth and se-
-mantic maps to exploit the complementary nature of these
-tasks. We conduct extensive ablation studies for both of our
-approaches with different semantic signals and loss func-
-tions and compare them with our encoder-decoder based
-baseline architecture. We validate our results quantita-
-tively through various evaluation metrics, and qualitatively
+based on deep learning to leverage the rich semantic details
+present in an image for monocular depth estimation. 
+First, we explore different ways of integrating semantic 
+signals to the input in the form of semantic maps
+and borders. Second, we jointly estimate depth and semantic 
+maps to exploit the complementary nature of thesetasks. 
+We conduct extensive ablation studies for both of our approaches
+with different semantic signals and loss functions 
+and compare them with our encoder-decoder based
+baseline architecture. We validate our results quantitatively 
+through various evaluation metrics, and qualitatively
 on HyperSim dataset.
-  
+
+## Urban Growth Unveiled: Deep Learning with Satellite Imagery for Measuring 3d Building-Stock Evolution in Urban China 
+[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4967121)
+
+Time-series information on building stock is of paramount importance to study cities in a host of disciplines ranging from economics to urban planning and sociology. Such data are lacking in a consistently measured way and especially among dynamically growing cities in developing countries. Due to their rapid change, building stock data in these cities can offer insight into the determinants and consequences urbanisation. To be able to analyze urban structures effectively, the building stock needs to be measured with sufficient detail -- at a resolution that makes individual buildings or small conglomerates thereof visible -- and it needs to consider building height (volume) with a satisfactory scope across cities to cover both large numbers and multi-year sequences of data. This study aims to develop a comprehensive pipeline for predicting building volume -- including both footprint and height -- across 1,537 urban areas in mainland China, covering more than 60% of the Chinese population over a seven-year period (2017-2023). With the advancement of deep learning in remote sensing and computer vision, we can leverage state-of-the-art techniques to produce large-scale data for Chinese cities across years, which could be otherwise time-consuming with traditional remote-sensing techniques.We demonstrate that the proposed approach leads to credible metrics of both footprint and height predictions and performs very competitively with respect to existing building-volume predictions. We also benchmark our results against other data sources such as real-estate listings and demonstrate the out-of-sample prediction capability of our proposed model.
+
+
 Awards
 ======
 - International Mathematics Olympiad 2016 - Honorable Mention
