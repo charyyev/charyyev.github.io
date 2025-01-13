@@ -82,6 +82,7 @@ Time-series information on building stock is of paramount importance to study ci
 
 ## Computational Intelligence Lab - Road Segmentation
 [paper](papers/road_segmentation.pdf)
+
 Road segmentation from aerial images is an important 
 problem that has applications in urban planning,
 infrastructure development, and transportation. This paper
