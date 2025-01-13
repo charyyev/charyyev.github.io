@@ -80,6 +80,22 @@ on HyperSim dataset.
 
 Time-series information on building stock is of paramount importance to study cities in a host of disciplines ranging from economics to urban planning and sociology. Such data are lacking in a consistently measured way and especially among dynamically growing cities in developing countries. Due to their rapid change, building stock data in these cities can offer insight into the determinants and consequences urbanisation. To be able to analyze urban structures effectively, the building stock needs to be measured with sufficient detail -- at a resolution that makes individual buildings or small conglomerates thereof visible -- and it needs to consider building height (volume) with a satisfactory scope across cities to cover both large numbers and multi-year sequences of data. This study aims to develop a comprehensive pipeline for predicting building volume -- including both footprint and height -- across 1,537 urban areas in mainland China, covering more than 60% of the Chinese population over a seven-year period (2017-2023). With the advancement of deep learning in remote sensing and computer vision, we can leverage state-of-the-art techniques to produce large-scale data for Chinese cities across years, which could be otherwise time-consuming with traditional remote-sensing techniques.We demonstrate that the proposed approach leads to credible metrics of both footprint and height predictions and performs very competitively with respect to existing building-volume predictions. We also benchmark our results against other data sources such as real-estate listings and demonstrate the out-of-sample prediction capability of our proposed model.
 
+## Computational Intelligence Lab - Road Segmentation
+[paper](papers/road_segmentation.pdf)
+Road segmentation from aerial images is an important 
+problem that has applications in urban planning,
+infrastructure development, and transportation. This paper
+presents our solution for the ETHZ CIL Road Segmentation
+2023 challenge which requires segmenting roads in images
+obtained from google maps. Starting from a U-net baseline, we
+propose to replace its encoder with an EfficientNet-b7 encoder
+to increase its capacity. Additionally, to deal with data scarcity
+we propose to use a pretraining strategy, data augmentation,
+ensemble learning, and test time augmentation. We further
+refine the results with Conditional Random Fields. With all
+these components, our solution demonstrates promising results
+in aerial road segmentation.
+
 
 Awards
 ======
