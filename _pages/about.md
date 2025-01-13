@@ -52,9 +52,27 @@ Education
 
 Projects
 ======
-Semantic-MD: Infusing Monocular Depth with Semantic Signals
-=== 
 
+#### Semantic-MD: Infusing Monocular Depth with Semantic Signals
+
+Monocular depth estimation (MDE) plays a crucial role
+in numerous computer vision tasks, such as 3D reconstruc-
+tion, scene understanding, and augmented reality. How-
+ever, as MDE is an ill-posed problem, the incorporation
+of additional semantic cues can facilitate improved depth
+estimation. In this paper, we explore different techniques
+based on deep learning to leverage the rich semantic de-
+tails present in an image for monocular depth estima-
+tion. First, we explore different ways of integrating se-
+mantic signals to the input in the form of semantic maps
+and borders. Second, we jointly estimate depth and se-
+mantic maps to exploit the complementary nature of these
+tasks. We conduct extensive ablation studies for both of our
+approaches with different semantic signals and loss func-
+tions and compare them with our encoder-decoder based
+baseline architecture. We validate our results quantita-
+tively through various evaluation metrics, and qualitatively
+on HyperSim dataset.
   
 Awards
 ======
