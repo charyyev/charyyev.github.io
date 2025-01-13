@@ -53,7 +53,7 @@ Education
 Projects
 ======
 
-#### Semantic-MD: Infusing Monocular Depth with Semantic Signals
+## Semantic-MD: Infusing Monocular Depth with Semantic Signals
 
 Monocular depth estimation (MDE) plays a crucial role
 in numerous computer vision tasks, such as 3D reconstruc-
